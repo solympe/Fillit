@@ -23,4 +23,4 @@ The program has simple validation (string length and count of num symbhols)
 
 
 Sorry for my English
-Bet regards your Solympe
+Best regards your Solympe
